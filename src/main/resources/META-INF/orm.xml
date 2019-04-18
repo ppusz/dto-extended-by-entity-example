@@ -1,0 +1,7 @@
+<entity-mappings>
+    <mapped-superclass class="com.example.entityextendendingpojo.AddressDTO">
+        <attributes>
+            <id name="id"/>
+        </attributes>
+    </mapped-superclass>
+</entity-mappings>
